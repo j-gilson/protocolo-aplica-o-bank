@@ -1,1 +1,0 @@
-# protocolo-aplicao-bank
